@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jjiWU1hszhmdjeqQLULX6cdNK8ohLqhBWU8MJ85ygePWNVo1thEKmXvuisSmeSSBqPMqnr+RmO/LV2vkn6DEkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luizf\\Dropbox\\PC\\Desktop\\Luiz\\Trabalho\\Bernal\\Bernal.ERP.Inventario\\src\\Bernal.ERP.ControleInventario.Dominio\\Bernal.ERP.ControleInventario.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luizf\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}

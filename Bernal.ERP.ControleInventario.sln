@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bernal.ERP.ControleInventario.Api", "src\Bernal.ERP.ControleInventario.Api\Bernal.ERP.ControleInventario.Api.csproj", "{86E52CED-69CD-4DD4-8938-5D761D47ADC1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bernal.ERP.ControleInventario.Dominio", "src\Bernal.ERP.ControleInventario.Dominio\Bernal.ERP.ControleInventario.Dominio.csproj", "{3DCBFF3D-F0F7-4484-B973-75DA2C8B12B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bernal.ERP.ControleInventario.Infra", "src\Bernal.ERP.ControleInventario.Infra\Bernal.ERP.ControleInventario.Infra.csproj", "{0584AAC3-1C4D-44D7-9EDC-713ECD29B16B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86E52CED-69CD-4DD4-8938-5D761D47ADC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E52CED-69CD-4DD4-8938-5D761D47ADC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E52CED-69CD-4DD4-8938-5D761D47ADC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E52CED-69CD-4DD4-8938-5D761D47ADC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DCBFF3D-F0F7-4484-B973-75DA2C8B12B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DCBFF3D-F0F7-4484-B973-75DA2C8B12B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DCBFF3D-F0F7-4484-B973-75DA2C8B12B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DCBFF3D-F0F7-4484-B973-75DA2C8B12B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0584AAC3-1C4D-44D7-9EDC-713ECD29B16B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0584AAC3-1C4D-44D7-9EDC-713ECD29B16B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0584AAC3-1C4D-44D7-9EDC-713ECD29B16B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0584AAC3-1C4D-44D7-9EDC-713ECD29B16B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F52D0FF1-948F-44DA-837A-5C2B6DE33A9E}
+	EndGlobalSection
+EndGlobal
